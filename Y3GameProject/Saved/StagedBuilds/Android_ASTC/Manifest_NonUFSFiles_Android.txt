@@ -1,0 +1,4 @@
+Engine/Plugins/Marketplace/MetaXR/Source/ThirdParty/OVRPlugin/OVRPlugin/Lib/arm64-v8a/OpenXR/libOVRPlugin.so	2023-04-04T14:02:33.067Z
+Engine/Plugins/Marketplace/MetaXR/Source/ThirdParty/OVRPlugin/OVRPlugin/Lib/armeabi-v7a/OpenXR/libOVRPlugin.so	2023-04-04T14:02:33.175Z
+Engine/Source/ThirdParty/Oculus/OculusOpenXRLoader/OculusOpenXRLoader/Lib/arm64-v8a/libopenxr_loader.so	2023-03-17T21:06:55.409Z
+UECommandLine.txt	A85981E881AAD75490B5EBCA0B5C22AD
